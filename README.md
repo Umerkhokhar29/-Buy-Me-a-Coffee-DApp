@@ -30,7 +30,14 @@ Animations: AOS.js
 Local Blockchain: Hardhat (localhost network)
 
 📸 Screenshots
-...
+![Home Page](images/homepg.png)
+![Wallet Connected->Home Page](images/walletConnectedHome.png)
+![Buy Coffee](images/coffeeMenu.png)
+![Coffee List](images/coffeeList.png)
+![Buy Coffee](images/transactionFail.png)
+![Buy Coffee](images/transactionSuccess.jpg)
+
+
 
 🛠️ Setup Instructions
 1. Install Dependencies
