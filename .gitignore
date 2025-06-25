@@ -1,0 +1,27 @@
+# Node modules (both frontend and backend)
+node_modules/
+**/node_modules/
+
+# Environment files (keep secrets out)
+.env
+.env.local
+
+# Hardhat build artifacts
+backend/cache/
+backend/artifacts/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# React build files
+frontend/build/
+frontend/.DS_Store
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE junk
+.vscode/
+.idea/

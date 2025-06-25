@@ -1,0 +1,25 @@
+.tilt-card {
+  perspective: 1000px;
+}
+
+.tilt-inner {
+  transition: transform 0.2s ease;
+  transform-style: preserve-3d;
+  border-radius: 16px;
+  background: #fff;
+  border: 1px solid #eee;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.08);
+}
+
+.tilt-card:hover .tilt-inner {
+  box-shadow: 0 12px 26px rgba(0, 0, 0, 0.15);
+}
+
+.coffee-hover {
+  transition: all 0.3s ease;
+}
+
+.coffee-hover:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
+}

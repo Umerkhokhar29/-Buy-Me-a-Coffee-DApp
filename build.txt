@@ -1,0 +1,16 @@
+✅ 1. Start Local Blockchain Node
+npx hardhat node
+⚠️ Keep this terminal open. It runs a local Ethereum network.
+
+✅ 2. Deploy Contract to Localhost
+In a new terminal:
+npx hardhat run scripts/deploy.js --network localhost
+✅ Copy the printed contract address from the terminal.
+
+✅ 3. Update Frontend with Contract Address
+Open:
+src/utils/contractAddress.js
+Paste the new address:
+export const contractAddress = "PASTE_YOUR_NEW_ADDRESS_HERE";
+✅ 4. Run React Frontend
+npm start
