@@ -29,13 +29,25 @@ Animations: AOS.js
 
 Local Blockchain: Hardhat (localhost network)
 
-📸 Screenshots
+## 📸 Screenshots
+
+### 🏠 Home Page
 ![Home Page](images/homepg.png)
-![Wallet Connected->Home Page](images/walletConnectedHome.png)
+
+### 🔐 Wallet Connected
+![Wallet Connected](images/walletConnectedHome.png)
+
+### ☕ Coffee Menu
 ![Buy Coffee](images/coffeeMenu.png)
+
+### 📜 Coffee List
 ![Coffee List](images/coffeeList.png)
-![Buy Coffee](images/transactionFail.png)
-![Buy Coffee](images/transactionSuccess.jpg)
+
+### ❌ Transaction Failed
+![Transaction Fail](images/transactionFail.png)
+
+### ✅ Transaction Success
+![Transaction Success](images/transactionSuccess.jpg)
 
 
 
