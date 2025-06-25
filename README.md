@@ -32,19 +32,19 @@ Local Blockchain: Hardhat (localhost network)
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](images/homepg.png)
+![Home Page](images/homepg.PNG)
 
 ### 🔐 Wallet Connected
-![Wallet Connected](images/walletConnectedHome.png)
+![Wallet Connected](images/walletConnectedHome.PNG)
 
 ### ☕ Coffee Menu
-![Buy Coffee](images/coffeeMenu.png)
+![Buy Coffee](images/coffeeMenu.PNG)
 
 ### 📜 Coffee List
-![Coffee List](images/coffeeList.png)
+![Coffee List](images/coffeeList.PNG)
 
 ### ❌ Transaction Failed
-![Transaction Fail](images/transactionFail.png)
+![Transaction Fail](images/transactionFail.PNG)
 
 ### ✅ Transaction Success
 ![Transaction Success](images/transactionSuccess.jpg)
