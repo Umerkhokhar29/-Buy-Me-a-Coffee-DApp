@@ -7,7 +7,7 @@ const demoCoffees = [
   {
     from: "0x1234...abcd",
     timestamp: "2025-06-15 12:45",
-    name: "Alice",
+    name: "Umer",
     message: "You’re doing amazing work!",
     amount: "0.003 ETH",
     image: "/images/coffee3.jpg",
@@ -15,7 +15,7 @@ const demoCoffees = [
   {
     from: "0x4567...efgh",
     timestamp: "2025-06-14 17:32",
-    name: "Bob",
+    name: "Owais",
     message: "Keep it up!",
     amount: "0.001 ETH",
     image: "/images/coffee1.jpg",
@@ -23,7 +23,7 @@ const demoCoffees = [
   {
     from: "0x7890...ijkl",
     timestamp: "2025-06-13 10:20",
-    name: "Carol",
+    name: "Nazia",
     message: "This coffee is on me ☕",
     amount: "0.004 ETH",
     image: "/images/coffee4.jpg",
