@@ -8,7 +8,7 @@ const WithdrawPage = () => {
   const [inputPassword, setInputPassword] = useState("");
   const [loading, setLoading] = useState(false);
 
-  const correctPassword = "superSecret123"; // Replace with your own password
+  const correctPassword = "superSecret123"; 
 
   const handleUnlock = () => {
     if (inputPassword === correctPassword) {

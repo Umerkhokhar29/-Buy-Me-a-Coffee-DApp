@@ -10,7 +10,7 @@ function Home({ walletAddress, setWalletAddress }) {
   return (
     <div className="container py-5 bg-light rounded-4 shadow-sm">
       <div className="text-center mb-5">
-        <h1 className="display-5 fw-bold">☕ Buy Me a Crypto Coffee</h1>
+        <h1 className="display-5 fw-bold">☕ Buy Me a Coffee</h1>
         <p className="text-muted">Support with a small crypto coffee gesture</p>
         <WalletConnect setWalletAddress={setWalletAddress} />
       </div>
